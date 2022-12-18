@@ -21,6 +21,7 @@ public class Google extends Comman_Method {
 
 	public Google() {
 		PageFactory.initElements(driver, this);
+		System.out.println("google page is intialized");
 	}
 
 	public void Google_web_page_lauch() {
