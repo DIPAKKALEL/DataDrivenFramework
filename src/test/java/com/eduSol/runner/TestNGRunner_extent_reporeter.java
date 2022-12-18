@@ -92,6 +92,7 @@ public void t2() {
 	@AfterTest
 	public void afterTest() {
 		report.flush();
+		System.out.println("Execution is completed");
 		
 	}
 
