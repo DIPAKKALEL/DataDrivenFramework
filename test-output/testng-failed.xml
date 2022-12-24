@@ -8,8 +8,8 @@
     <classes>
       <class name="com.eduSol.runner.TestNGRunner_extent_reporeter">
         <methods>
-          <include name="testcase" invocation-numbers="1 2"/>
           <include name="afterTest"/>
+          <include name="testcase" invocation-numbers="1 2"/>
           <include name="beforeTest"/>
           <include name="tearDown"/>
           <include name="browserSetup"/>

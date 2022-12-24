@@ -265,3 +265,62 @@
 [DEBUG] 2022-12-18 00:32:12.495 [main] TestNGRunner_extent_reporeter - chrome has been launched
 [INFO ] 2022-12-18 00:32:12.500 [main] TestNGRunner_extent_reporeter - test has started
 [ERROR] 2022-12-18 00:32:12.501 [main] TestNGRunner_extent_reporeter - test has been skipped
+[INFO ] 2022-12-19 10:56:34.482 [main] TestNGRunner_extent_reporeter - Execution has started
+[DEBUG] 2022-12-19 10:56:49.941 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-19 10:56:49.953 [main] TestNGRunner_extent_reporeter - test has started
+[INFO ] 2022-12-19 10:56:57.364 [main] TestNGRunner_extent_reporeter - Soft assertion execution staterd
+[DEBUG] 2022-12-19 10:57:18.002 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-19 10:57:18.003 [main] TestNGRunner_extent_reporeter - test has started
+[DEBUG] 2022-12-19 10:58:01.247 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-19 10:58:01.248 [main] TestNGRunner_extent_reporeter - test has started
+[ERROR] 2022-12-19 10:58:01.248 [main] TestNGRunner_extent_reporeter - test has been skipped
+[INFO ] 2022-12-19 13:09:37.768 [main] TestNGRunner_extent_reporeter - Execution has started
+[DEBUG] 2022-12-19 13:10:31.801 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-19 13:10:31.820 [main] TestNGRunner_extent_reporeter - test has started
+[INFO ] 2022-12-19 13:10:41.691 [main] TestNGRunner_extent_reporeter - Soft assertion execution staterd
+[DEBUG] 2022-12-19 13:11:12.099 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-19 13:11:12.104 [main] TestNGRunner_extent_reporeter - test has started
+[DEBUG] 2022-12-19 13:12:12.111 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-19 13:12:12.113 [main] TestNGRunner_extent_reporeter - test has started
+[ERROR] 2022-12-19 13:12:12.113 [main] TestNGRunner_extent_reporeter - test has been skipped
+[INFO ] 2022-12-24 16:02:39.640 [main] TestNGRunner_extent_reporeter - Execution has started
+[DEBUG] 2022-12-24 16:02:50.473 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-24 16:02:50.488 [main] TestNGRunner_extent_reporeter - test has started
+[INFO ] 2022-12-24 16:02:57.427 [main] TestNGRunner_extent_reporeter - Soft assertion execution staterd
+[DEBUG] 2022-12-24 16:03:15.656 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-24 16:03:15.657 [main] TestNGRunner_extent_reporeter - test has started
+[DEBUG] 2022-12-24 16:04:02.400 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-24 16:04:02.400 [main] TestNGRunner_extent_reporeter - test has started
+[ERROR] 2022-12-24 16:04:02.401 [main] TestNGRunner_extent_reporeter - test has been skipped
+[INFO ] 2022-12-24 16:04:18.043 [main] TestNGRunner_extent_reporeter - Execution has started
+[DEBUG] 2022-12-24 16:04:28.255 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-24 16:04:28.269 [main] TestNGRunner_extent_reporeter - test has started
+[INFO ] 2022-12-24 16:04:35.249 [main] TestNGRunner_extent_reporeter - Soft assertion execution staterd
+[DEBUG] 2022-12-24 16:04:46.968 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-24 16:04:46.968 [main] TestNGRunner_extent_reporeter - test has started
+[DEBUG] 2022-12-24 16:05:29.173 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-24 16:05:29.173 [main] TestNGRunner_extent_reporeter - test has started
+[ERROR] 2022-12-24 16:05:29.173 [main] TestNGRunner_extent_reporeter - test has been skipped
+[INFO ] 2022-12-24 16:08:47.801 [main] TestNGRunner_extent_reporeter - Execution has started
+[DEBUG] 2022-12-24 16:09:00.297 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-24 16:09:00.306 [main] TestNGRunner_extent_reporeter - test has started
+[INFO ] 2022-12-24 16:09:07.249 [main] TestNGRunner_extent_reporeter - Soft assertion execution staterd
+[DEBUG] 2022-12-24 16:09:17.798 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-24 16:09:17.799 [main] TestNGRunner_extent_reporeter - test has started
+[INFO ] 2022-12-24 16:09:42.331 [main] TestNGRunner_extent_reporeter - Soft assertion execution staterd
+[DEBUG] 2022-12-24 16:09:56.502 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-24 16:09:56.503 [main] TestNGRunner_extent_reporeter - test has started
+[ERROR] 2022-12-24 16:09:56.503 [main] TestNGRunner_extent_reporeter - test has been skipped
+[INFO ] 2022-12-24 16:10:07.420 [main] TestNGRunner_extent_reporeter - Execution has started
+[DEBUG] 2022-12-24 16:11:48.291 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-24 16:11:48.316 [main] TestNGRunner_extent_reporeter - test has started
+[INFO ] 2022-12-24 16:15:58.069 [main] TestNGRunner_extent_reporeter - Execution has started
+[DEBUG] 2022-12-24 16:16:39.460 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-24 16:16:39.473 [main] TestNGRunner_extent_reporeter - test has started
+[INFO ] 2022-12-24 16:16:48.925 [main] TestNGRunner_extent_reporeter - Soft assertion execution staterd
+[DEBUG] 2022-12-24 16:17:19.942 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-24 16:17:19.943 [main] TestNGRunner_extent_reporeter - test has started
+[INFO ] 2022-12-24 16:17:46.626 [main] TestNGRunner_extent_reporeter - Soft assertion execution staterd
+[DEBUG] 2022-12-24 16:18:15.410 [main] TestNGRunner_extent_reporeter - chrome has been launched
+[INFO ] 2022-12-24 16:18:15.411 [main] TestNGRunner_extent_reporeter - test has started
+[ERROR] 2022-12-24 16:18:15.411 [main] TestNGRunner_extent_reporeter - test has been skipped

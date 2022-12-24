@@ -59,7 +59,7 @@ public class PIM_Login extends Comman_Method {
 		submit_btn.click();
 		hardwait(3000);
 	//	Assert.assertTrue(employee_title.getText().equalsIgnoreCase("Persona Details"));
-		softassert.assertTrue(employee_title.getText().equalsIgnoreCase("Persona Details"));
+		softassert.assertTrue(employee_title.getText().equalsIgnoreCase("Personal Details"));
 		
 	//	System.out.println("ran after soft assertion");
 	test.log(Status.PASS, "Employee has been added sucesfully");
